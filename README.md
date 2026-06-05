@@ -226,7 +226,6 @@ This repository focuses on deployment, configuration, testing, troubleshooting, 
 
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/3f1c6ee4-5e22-4f97-bcf2-c63c28c198dc" />
 
-<img width="1199" height="19" alt="Screenshot 2026-04-23 131739" src="https://github.com/user-attachments/assets/f6f2ee2c-819a-4438-a0e7-ed70f5a398f9" />
 
 <img width="1895" height="892" alt="Screenshot 2026-04-23 131806" src="https://github.com/user-attachments/assets/c9f82499-a4b4-4594-8b48-2745ea2c01e4" />
 
